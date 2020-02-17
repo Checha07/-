@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Игровой автомат\Игровой автомат\bin\Debug\Игровой автомат.exe.config
+C:\Users\User\source\repos\Игровой автомат\Игровой автомат\bin\Debug\Игровой автомат.exe
+C:\Users\User\source\repos\Игровой автомат\Игровой автомат\bin\Debug\Игровой автомат.pdb
+C:\Users\User\source\repos\Игровой автомат\Игровой автомат\obj\Debug\Игровой автомат.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Игровой автомат\Игровой автомат\obj\Debug\Игровой_автомат.Form2.resources
+C:\Users\User\source\repos\Игровой автомат\Игровой автомат\obj\Debug\Игровой_автомат.Form1.resources
+C:\Users\User\source\repos\Игровой автомат\Игровой автомат\obj\Debug\Игровой_автомат.Properties.Resources.resources
+C:\Users\User\source\repos\Игровой автомат\Игровой автомат\obj\Debug\Игровой автомат.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Игровой автомат\Игровой автомат\obj\Debug\Игровой автомат.exe
+C:\Users\User\source\repos\Игровой автомат\Игровой автомат\obj\Debug\Игровой автомат.pdb
